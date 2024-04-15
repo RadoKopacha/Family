@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\obj\Debug\net8.0\Geometri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\obj\Debug\net8.0\Geometri.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\obj\Debug\net8.0\Geometri.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\obj\Debug\net8.0\Geometri.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\bin\Debug\net8.0\Geometri.exe
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\bin\Debug\net8.0\Geometri.deps.json
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\bin\Debug\net8.0\Geometri.runtimeconfig.json
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\bin\Debug\net8.0\Geometri.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\bin\Debug\net8.0\Geometri.pdb
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\obj\Debug\net8.0\Geometri.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\obj\Debug\net8.0\refint\Geometri.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\obj\Debug\net8.0\Geometri.pdb
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\obj\Debug\net8.0\Geometri.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\Class\Geometri\obj\Debug\net8.0\ref\Geometri.dll
