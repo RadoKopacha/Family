@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\STUDENTS-1212-1\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENTS-1212-1\\Documents\\Radoslav 9a\\Class\\FirstClass\\FirstClass.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\Нова папка\\Family\\FirstClass\\FirstClass.csproj",
       "projectName": "FirstClass",
-      "projectPath": "C:\\Users\\STUDENTS-1212-1\\Documents\\Radoslav 9a\\Class\\FirstClass\\FirstClass.csproj",
-      "packagesPath": "C:\\Users\\STUDENTS-1212-1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENTS-1212-1\\Documents\\Radoslav 9a\\Class\\FirstClass\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\Нова папка\\Family\\FirstClass\\FirstClass.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\Нова папка\\Family\\FirstClass\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\STUDENTS-1212-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
