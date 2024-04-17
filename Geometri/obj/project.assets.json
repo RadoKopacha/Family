@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\Нова папка\\Family\\Geometri\\Geometri.csproj",
+      "projectUniqueName": "D:\\9a klas\\Family\\Geometri\\Geometri.csproj",
       "projectName": "Geometri",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\Нова папка\\Family\\Geometri\\Geometri.csproj",
+      "projectPath": "D:\\9a klas\\Family\\Geometri\\Geometri.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\Нова папка\\Family\\Geometri\\obj\\",
+      "outputPath": "D:\\9a klas\\Family\\Geometri\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

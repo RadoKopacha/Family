@@ -1,0 +1,15 @@
+D:\9a klas\Family\Domashna\bin\Debug\net8.0\Domashna.exe
+D:\9a klas\Family\Domashna\bin\Debug\net8.0\Domashna.deps.json
+D:\9a klas\Family\Domashna\bin\Debug\net8.0\Domashna.runtimeconfig.json
+D:\9a klas\Family\Domashna\bin\Debug\net8.0\Domashna.dll
+D:\9a klas\Family\Domashna\bin\Debug\net8.0\Domashna.pdb
+D:\9a klas\Family\Domashna\obj\Debug\net8.0\Domashna.GeneratedMSBuildEditorConfig.editorconfig
+D:\9a klas\Family\Domashna\obj\Debug\net8.0\Domashna.AssemblyInfoInputs.cache
+D:\9a klas\Family\Domashna\obj\Debug\net8.0\Domashna.AssemblyInfo.cs
+D:\9a klas\Family\Domashna\obj\Debug\net8.0\Domashna.csproj.CoreCompileInputs.cache
+D:\9a klas\Family\Domashna\obj\Debug\net8.0\Domashna.sourcelink.json
+D:\9a klas\Family\Domashna\obj\Debug\net8.0\Domashna.dll
+D:\9a klas\Family\Domashna\obj\Debug\net8.0\refint\Domashna.dll
+D:\9a klas\Family\Domashna\obj\Debug\net8.0\Domashna.pdb
+D:\9a klas\Family\Domashna\obj\Debug\net8.0\Domashna.genruntimeconfig.cache
+D:\9a klas\Family\Domashna\obj\Debug\net8.0\ref\Domashna.dll

@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\",
+  "WorkspaceRootPath": "D:\\9a klas\\Family\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62A0CBBD-45AE-4E53-93E3-D66F19BB33FB}|Domashna\\Domashna.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\domashna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A0CBBD-45AE-4E53-93E3-D66F19BB33FB}|Domashna\\Domashna.csproj|solutionrelative:domashna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62A0CBBD-45AE-4E53-93E3-D66F19BB33FB}|Domashna\\Domashna.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\domashna\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62A0CBBD-45AE-4E53-93E3-D66F19BB33FB}|Domashna\\Domashna.csproj|D:\\9a klas\\Family\\domashna\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62A0CBBD-45AE-4E53-93E3-D66F19BB33FB}|Domashna\\Domashna.csproj|solutionrelative:domashna\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62A0CBBD-45AE-4E53-93E3-D66F19BB33FB}|Domashna\\Domashna.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\domashna\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62A0CBBD-45AE-4E53-93E3-D66F19BB33FB}|Domashna\\Domashna.csproj|d:\\9a klas\\family\\domashna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A0CBBD-45AE-4E53-93E3-D66F19BB33FB}|Domashna\\Domashna.csproj|solutionrelative:domashna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A0CBBD-45AE-4E53-93E3-D66F19BB33FB}|Domashna\\Domashna.csproj|D:\\9a klas\\Family\\domashna\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62A0CBBD-45AE-4E53-93E3-D66F19BB33FB}|Domashna\\Domashna.csproj|solutionrelative:domashna\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD0399AE-D2A6-4290-BD4D-FD407F6AC9EF}|Family\\Family.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\family\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD0399AE-D2A6-4290-BD4D-FD407F6AC9EF}|Family\\Family.csproj|solutionrelative:family\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD0399AE-D2A6-4290-BD4D-FD407F6AC9EF}|Family\\Family.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\family\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD0399AE-D2A6-4290-BD4D-FD407F6AC9EF}|Family\\Family.csproj|D:\\9a klas\\Family\\family\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD0399AE-D2A6-4290-BD4D-FD407F6AC9EF}|Family\\Family.csproj|solutionrelative:family\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD0399AE-D2A6-4290-BD4D-FD407F6AC9EF}|Family\\Family.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\family\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD0399AE-D2A6-4290-BD4D-FD407F6AC9EF}|Family\\Family.csproj|D:\\9a klas\\Family\\family\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0399AE-D2A6-4290-BD4D-FD407F6AC9EF}|Family\\Family.csproj|solutionrelative:family\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0399AE-D2A6-4290-BD4D-FD407F6AC9EF}|Family\\Family.csproj|D:\\9a klas\\Family\\family\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD0399AE-D2A6-4290-BD4D-FD407F6AC9EF}|Family\\Family.csproj|solutionrelative:family\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFC6FEDC-90AD-4A63-BE7E-81D5BB79DF7C}|Geometri\\Geometri.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\geometri\\triygylnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFC6FEDC-90AD-4A63-BE7E-81D5BB79DF7C}|Geometri\\Geometri.csproj|D:\\9a klas\\Family\\geometri\\triygylnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFC6FEDC-90AD-4A63-BE7E-81D5BB79DF7C}|Geometri\\Geometri.csproj|solutionrelative:geometri\\triygylnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D5C53F6-B2AA-4813-A791-DF93B50655CA}|FirstClass\\FirstClass.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\firstclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D5C53F6-B2AA-4813-A791-DF93B50655CA}|FirstClass\\FirstClass.csproj|D:\\9a klas\\Family\\firstclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D5C53F6-B2AA-4813-A791-DF93B50655CA}|FirstClass\\FirstClass.csproj|solutionrelative:firstclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D5C53F6-B2AA-4813-A791-DF93B50655CA}|FirstClass\\FirstClass.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\firstclass\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D5C53F6-B2AA-4813-A791-DF93B50655CA}|FirstClass\\FirstClass.csproj|D:\\9a klas\\Family\\firstclass\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D5C53F6-B2AA-4813-A791-DF93B50655CA}|FirstClass\\FirstClass.csproj|solutionrelative:firstclass\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFC6FEDC-90AD-4A63-BE7E-81D5BB79DF7C}|Geometri\\Geometri.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\geometri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFC6FEDC-90AD-4A63-BE7E-81D5BB79DF7C}|Geometri\\Geometri.csproj|D:\\9a klas\\Family\\geometri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFC6FEDC-90AD-4A63-BE7E-81D5BB79DF7C}|Geometri\\Geometri.csproj|solutionrelative:geometri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFC6FEDC-90AD-4A63-BE7E-81D5BB79DF7C}|Geometri\\Geometri.csproj|c:\\users\\admin\\desktop\\new folder\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\family\\geometri\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFC6FEDC-90AD-4A63-BE7E-81D5BB79DF7C}|Geometri\\Geometri.csproj|D:\\9a klas\\Family\\geometri\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFC6FEDC-90AD-4A63-BE7E-81D5BB79DF7C}|Geometri\\Geometri.csproj|solutionrelative:geometri\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Family.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Domashna\\Family.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\Domashna\\Family.cs",
               "RelativeDocumentMoniker": "Domashna\\Family.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Domashna\\Family.cs",
+              "ToolTip": "D:\\9a klas\\Family\\Domashna\\Family.cs",
               "RelativeToolTip": "Domashna\\Family.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAIwCwAAAAAAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAawFMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T19:33:42.017Z",
               "EditorCaption": ""
@@ -73,48 +73,47 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Domashna\\Person.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\Domashna\\Person.cs",
               "RelativeDocumentMoniker": "Domashna\\Person.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Domashna\\Person.cs",
+              "ToolTip": "D:\\9a klas\\Family\\Domashna\\Person.cs",
               "RelativeToolTip": "Domashna\\Person.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCsAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAhwCAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T19:32:38.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Domashna\\Program.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\Domashna\\Program.cs",
               "RelativeDocumentMoniker": "Domashna\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Domashna\\Program.cs",
+              "ToolTip": "D:\\9a klas\\Family\\Domashna\\Program.cs",
               "RelativeToolTip": "Domashna\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAkAAAArAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAIA1wBQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T19:31:53.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Family.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Family\\Family.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\Family\\Family.cs",
               "RelativeDocumentMoniker": "Family\\Family.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Family\\Family.cs",
+              "ToolTip": "D:\\9a klas\\Family\\Family\\Family.cs",
               "RelativeToolTip": "Family\\Family.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAkwCsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T10:08:30.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T10:08:30.502Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Family\\Person.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\Family\\Person.cs",
               "RelativeDocumentMoniker": "Family\\Person.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Family\\Person.cs",
+              "ToolTip": "D:\\9a klas\\Family\\Family\\Person.cs",
               "RelativeToolTip": "Family\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,11 +121,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Family\\Program.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\Family\\Program.cs",
               "RelativeDocumentMoniker": "Family\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Family\\Program.cs",
+              "ToolTip": "D:\\9a klas\\Family\\Family\\Program.cs",
               "RelativeToolTip": "Family\\Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAowDwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,9 +135,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "triygylnik.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Geometri\\triygylnik.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\Geometri\\triygylnik.cs",
               "RelativeDocumentMoniker": "Geometri\\triygylnik.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Geometri\\triygylnik.cs",
+              "ToolTip": "D:\\9a klas\\Family\\Geometri\\triygylnik.cs",
               "RelativeToolTip": "Geometri\\triygylnik.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,9 +147,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\FirstClass\\Dog.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\FirstClass\\Dog.cs",
               "RelativeDocumentMoniker": "FirstClass\\Dog.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\FirstClass\\Dog.cs",
+              "ToolTip": "D:\\9a klas\\Family\\FirstClass\\Dog.cs",
               "RelativeToolTip": "FirstClass\\Dog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,9 +159,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Geometri\\Program.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\Geometri\\Program.cs",
               "RelativeDocumentMoniker": "Geometri\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Geometri\\Program.cs",
+              "ToolTip": "D:\\9a klas\\Family\\Geometri\\Program.cs",
               "RelativeToolTip": "Geometri\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAqwBcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,9 +171,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Geometri\\Class1.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\Geometri\\Class1.cs",
               "RelativeDocumentMoniker": "Geometri\\Class1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\Geometri\\Class1.cs",
+              "ToolTip": "D:\\9a klas\\Family\\Geometri\\Class1.cs",
               "RelativeToolTip": "Geometri\\Class1.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,9 +183,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\FirstClass\\Program.cs",
+              "DocumentMoniker": "D:\\9a klas\\Family\\FirstClass\\Program.cs",
               "RelativeDocumentMoniker": "FirstClass\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Family\\FirstClass\\Program.cs",
+              "ToolTip": "D:\\9a klas\\Family\\FirstClass\\Program.cs",
               "RelativeToolTip": "FirstClass\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

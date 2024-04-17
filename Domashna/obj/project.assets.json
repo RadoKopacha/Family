@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\Нова папка\\Family\\Domashna\\Domashna.csproj",
+      "projectUniqueName": "D:\\9a klas\\Family\\Domashna\\Domashna.csproj",
       "projectName": "Domashna",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\Нова папка\\Family\\Domashna\\Domashna.csproj",
+      "projectPath": "D:\\9a klas\\Family\\Domashna\\Domashna.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\Нова папка\\Family\\Domashna\\obj\\",
+      "outputPath": "D:\\9a klas\\Family\\Domashna\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -21,33 +21,27 @@ namespace Domashna
                 current.Age = int.Parse(Console.ReadLine());
                 myFamily.Members.Add(current);
             }
-            for (int i = 0; i < count; i++)
-            {
-                for (int j = 0; j < count - 1; j++)
-                {
-                    if (myFamily.Members[j].Age > myFamily.Members[j + 1].Age)
-                    {
-                        Person temp = myFamily.Members[j];
-                        myFamily.Members[j] = myFamily.Members[j + 1];
-                        myFamily.Members[j + 1] = temp;
-                    }
-                }
-            }
-            Console.WriteLine();
-            Person oldest = myFamily.Members[count - 1];
-            Person youngest = myFamily.Members[0];
-            Console.Write("Oldest: ");
-            oldest.PrintOldestAndYoungest();
-            Console.Write("Youngest: ");
-            youngest.PrintOldestAndYoungest();
-            foreach (Person member in myFamily.Members)
-            {
-                total += member.Age;
-            }
-            Console.WriteLine();
+            myFamily.SortingMembers();
+            //Console.WriteLine();
+            //Person oldest = myFamily.Members[count - 1];
+            //Person youngest = myFamily.Members[0];
+            //Console.Write("Oldest: ");
+            //oldest.PrintOldestAndYoungest();
+            //Console.Write("Youngest: ");
+            //youngest.PrintOldestAndYoungest();
+            //foreach (Person member in myFamily.Members)
+            //{
+            //    total += member.Age;
+            //}
+            //Console.WriteLine();
             myFamily.PrintAll();
-            Console.WriteLine();
-            Console.WriteLine($"Sum of years: {total}");
+            //Console.WriteLine();
+            //Console.WriteLine($"Sum of years: {total}");
+            
+            myFamily.PrintYoungest();
+            myFamily.PrintOldest();
+            int sum = myFamily.SumOfTheFamilies();
+            Console.WriteLine($"The sum of all members age is {sum}.");
         }
     }
 }
